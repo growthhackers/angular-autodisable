@@ -1,0 +1,25 @@
+{
+  "name": "ng-autodisable",
+  "main": "autodisable.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/darlanalves/angular-autodisable",
+  "authors": [
+    "Darlan Alves <me@darlanalv.es>"
+  ],
+  "description": "Autodisable form fields and buttons while a promise is in progress",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "Makefile",
+    "src/**.*"
+  ]
+}
